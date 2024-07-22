@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Portfolio</title>
+    <link rel="stylesheet" href="styles1.css">
+    <meta name="description" content="Personal portfolio of [Your Name], showcasing projects and contact information.">
+    <meta name="keywords" content="portfolio, projects, contact">
+    <meta name="author" content="ONGOLLA POORNA VENKATESH">
+    <title>Page Title</title>
+    <link rel="stylesheet" href="styles1.css">
+</head>
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="about.html">About</a></li>
+                <li><a href="projects.html">Projects</a></li>
+                <li><a href="contact.html">Contact</a></li>
+            </ul>
+        </nav>
+        <h1>Welcome to My Portfolio</h1>
+    </header>
+    <main>
+        <section>
+            <h2>About Me</h2>
+            <p>Hi, I'm ONGOLLA POORNA VENKATESH.</p>
+        </section>
+        <section>
+            <h2>Featured Projects</h2>
+            <div class="projects">
+                <a href="projects.html">
+		    <div class="project1">	
+                    	<img src="D:\sem-6\intership\Screenshot 2024-04-21 143945.png" alt="Project 1">
+                    	<h3>Project 1</h3>
+		    </div>
+                </a>
+                <a href="projects.html">
+		    <div class="project1">
+                    	<img src="led.jpg" alt="Project 2">
+                    	<h3>Project 2</h3>
+		    </div>
+                </a>
+            </div>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2024 ONGOLLA POORNA VENKATESH. All rights reserved.</p>
+    </footer>
+</body>
+</html>
